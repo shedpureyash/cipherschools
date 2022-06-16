@@ -1,0 +1,27 @@
+.h1
+{
+    color: red;
+    text-align: center;
+}
+.Input
+{
+    border: solid 3px brown;
+    margin-left: 510px;
+    height: 100px;
+    width: 300px;
+}
+.but
+{
+    margin-left: 625px;
+    height: 50px;
+    width: 100px;
+    background-color: rgb(17, 17, 231);
+    color: white;
+}
+ table,td {
+    border: 1px solid;
+    margin-left: auto;
+  margin-right: auto;
+  color: orange;
+    
+  }
